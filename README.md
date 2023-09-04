@@ -1,4 +1,4 @@
-# Online Druming Kit
+# Online Drum Kit App
 
 ## Live Demo
  Url: https://amukayoung.github.io/Druming-webapp/
